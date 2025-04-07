@@ -1,5 +1,5 @@
 # SSHLogAnalyzer
-Python tool for analyzing SSH logs to detect potential brute force attacks. Parses logs to identify failed login attempts and flag suspicious IPs. Aimed at system admins and cybersecurity enthusiasts, with plans for GeoIP lookup and automated blocking enhancements.
+Python tool for analyzing SSH logs to detect potential brute force attacks. Parses logs to identify failed login attempts and flag suspicious IPs. Aimed at system admins and cybersecurity enthusiasts, with plans for GeoIP lookup and automated blocking enhancements. This is the second part of a different project that can be found [here](https://github.com/Toast-stack/VMs-Setup-for-SIEM-projects)
 
 ## Overview
 This Python-based tool analyzes SSH logs (`auth.log`) to detect failed login attempts and identify potential brute force attackers. It was developed in a controlled virtualized environment to simulate real-world scenarios where system administrators and cybersecurity analysts must identify and respond to security incidents.
