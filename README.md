@@ -90,3 +90,6 @@ sudo ufw deny from <attacker-IP>
 ## Limitations
   * Currently requires manual intervention to block malicious IPs.
   * Only scans the default SSH log file (`auth.log`). Custom log paths must be configured manually.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
